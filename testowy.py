@@ -13,3 +13,4 @@ length_suma=length_piekarnia+length_warzywniak
 print("W sumie kupuję", length_suma,"produktów")
 print("Zmiana w kodzie do commita")
 print("Zmiana w kodzie do commita nr1")
+print("Zmiana w kodzie do commita nr2")
