@@ -11,4 +11,4 @@ length_piekarnia=len(zakupy['piekarnia'])
 length_warzywniak=len(zakupy['warzywniak'])
 length_suma=length_piekarnia+length_warzywniak
 print("W sumie kupuję", length_suma,"produktów")
-    
+print("Zmiana w kodzie do commita")
